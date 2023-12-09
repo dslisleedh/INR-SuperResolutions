@@ -4,7 +4,6 @@
 | --- | --- | --- |
 | Learning Continuous Image Representation With Local Implicit Image Function | LIIF | [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Continuous_Image_Representation_With_Local_Implicit_Image_Function_CVPR_2021_paper.pdf) |
 | Local Texture Estimator for Implicit Representation Function | LTE | [CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf) |
-| Learning Local Implicit Fourier Representation for Image Warping | LTEW | [ECCV2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780179.pdf) |
 | CUF: Continuous Upsampling Filters | CUF | [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Vasconcelos_CUF_Continuous_Upsampling_Filters_CVPR_2023_paper.pdf) |
 | Implicit Diffusion Models for Continuous Super-Resolution | IDM | [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf) |
 | CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution | CiaoSR | [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_CiaoSR_Continuous_Implicit_Attention-in-Attention_Network_for_Arbitrary-Scale_Image_Super-Resolution_CVPR_2023_paper.pdf) |
